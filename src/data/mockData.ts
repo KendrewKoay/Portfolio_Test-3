@@ -11,7 +11,7 @@ export const initialProfile: CreatorProfile = {
   englishName: "Bingshan Lalala",
   redId: "896235769",
   avatarUrl: "https://sns-avatar-qc.xhscdn.com/avatar/625a65f3570af4d25f0cb24a.jpg",
-  coverUrl: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=80",
+  coverUrl: heroCoverImg,
   bio: "📍野生插画师｜设计师｜ISFJ\n🟡每日速写/插画  🟢看看新展\n🟣记录生活VLOG  ⚫️养了一只叫丸子的奶牛咪\n📚有关于绘本请戳👉@冰山的绘本藏宝洞\n✉️欢迎约稿，请私信",
   bioEn: "Wild Illustrator & Designer | ISFJ\nDaily sketches, exhibition vlogs, and creative illustration ZINEs. Cat mom to Maru. Commissions welcome!",
   location: "中国 南京 (Nanjing, China)",
