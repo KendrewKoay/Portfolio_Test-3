@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio & RED Creator Hub",
+  "description": "A stylish, modern portfolio website for Xiaohongshu (RED) illustrator and designer 冰山啦啦啦 (RED ID: 896235769) showcasing original ZINEs, hand-drawn guides, artwork, and brand collaborations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
